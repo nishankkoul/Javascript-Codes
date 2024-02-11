@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 45px;
+    background-color: beige;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 23px;
+    padding: 10px;
+}
+
+.navbar ul li{
+    list-style: none;
+    font-size: 1.25rem;
+}
+
+.table{
+    padding: 20px;
+}
+
+th{
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}

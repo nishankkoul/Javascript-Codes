@@ -1,0 +1,1 @@
+Javascript is a dynamic programming language coz it can change the data type of any variable at run time. 

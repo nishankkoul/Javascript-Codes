@@ -1,0 +1,12 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid;
+    margin-top: 5px;
+}
+
+#btn5{
+    margin-top: 20px;
+    padding: 20px;
+}
